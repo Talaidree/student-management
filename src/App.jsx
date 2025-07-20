@@ -1,4 +1,3 @@
-// App.jsx
 import { Routes, Route } from 'react-router-dom';
 import StudentList from './pages/StudentList';
 import AddStudent from './pages/AddStudent';
