@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import StudentList from './pages/StudentList';
 import AddStudent from './pages/AddStudent';
 import EditStudent from './pages/EditStudent';
