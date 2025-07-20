@@ -122,3 +122,14 @@ Example JSON structure:
 
 
 # student-management
+
+# Features Added
+-Added user-friendly interfaces to improve usability and navigation across the application.
+
+-Implemented a confirmation message before deletion to prevent accidental data loss.
+
+-Integrated a responsive navigation bar (Navbar) for better user experience.
+
+-Enabled real-time filtering by student name, allowing quick and easy search functionality.
+
+
